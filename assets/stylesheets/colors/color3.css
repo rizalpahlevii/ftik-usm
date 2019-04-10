@@ -1,0 +1,163 @@
+/**
+  * Color
+  * Border Color
+  * Background Color  
+*/
+
+/* Color
+-------------------------------------------------------------- */
+.flat-information > li:before,
+.flat-information > li > a:hover,
+.social-links a:hover,
+#mainnav > ul > li > a:hover, 
+#mainnav > ul > li.home > a,
+a:hover, a:focus,
+.iconbox .box-redmore,
+#flat-testimonials-flexslider .testimonial-author .author-name span,
+.footer-widgets ul.footer-info li:before,
+.widget.widget-recent-post ul li .content h3 a,
+.widget_tweets ul li:before,
+.widget_tweets ul li a,
+article .more-link a,
+article ul.meta-post li a:hover,
+.widget.widget_categories ul li a:hover,
+.widget.widget-recent-news ul li .text:before,
+.blog-pagination .flat-pagination li.prev a:hover, 
+.blog-pagination .flat-pagination li.next a:hover,
+.breadcrumbs ul li a:hover,
+.breadcrumbs ul li:before,
+.iconbox.style2 .box-content .box-title a:hover,
+ul.portfolio-filter > li.active a,
+ul.portfolio-filter > li a:hover,
+.flat-button.border,
+.bottom .copyright a:hover,
+.about-content-text h4,
+.about-content-text h4,
+.flat-accordion .toggle-title.active::before,
+ul.portfolio-filter.style1 > li a:hover,
+.flat-contact-info li i,
+.mega-menu ul li a:hover,
+.testimonials.style2 blockquote::before,
+ul.flat-list.style2 li::after,
+.flat-title span,
+.flat-iconlist .flat-iconlist-icon i,
+.mail-chimp input[type="submit"]:hover,
+.menu.menu-extra li a:hover,
+.blog-single blockquote::before,
+.iconbox.center-circle-style2 .box-redmore:hover {
+	color: #30a9de;
+}
+
+.flat-button.bg-theme:hover {
+	color: #fff;
+}
+
+/* Border Color
+-------------------------------------------------------------- */
+.blog-carosuel.owl-theme .owl-dots .owl-dot.active span::before,
+#flat-testimonials-carousel ul li:first-child img,
+.flex-direction-nav a,
+.flat-button.border,
+.sidebar-nav ul li a.active,
+.flat-button.radius,
+ul.flat-list li::before,
+.flat-tabs ul li.active,
+.iconbox.style3 img,
+.flat-accordion.style5 .toggle-title.active,
+#flat-testimonials-carousel ul img:hover,
+ul.flat-list.style2 li::before,
+.iconbox.center-circle-style1 .box-redmore:hover {
+	border-color: #30a9de;
+}
+
+.testimonials.style3 .message::after {
+	border-color: #30a9de transparent transparent transparent;
+}
+
+textarea:focus,
+input[type="text"]:focus,
+input[type="password"]:focus,
+input[type="datetime"]:focus,
+input[type="datetime-local"]:focus,
+input[type="date"]:focus,
+input[type="month"]:focus,
+input[type="time"]:focus,
+input[type="week"]:focus,
+input[type="number"]:focus,
+input[type="email"]:focus,
+input[type="url"]:focus,
+input[type="search"]:focus,
+input[type="tel"]:focus,
+input[type="color"]:focus,
+.widget.widget_search .search-form input[type="search"]:focus,
+.iconbox.circle.lagre:hover .box-header i,
+.iconbox.circle.lagre.center-circle-style2:hover .box-header i {
+	border-color: #30a9de;
+}
+
+/* Background Color
+-------------------------------------------------------------- */
+#mainnav > ul > li.home a:before,
+.flat-button-slider.bg-button-slider-32bfc0,
+.iconbox .box-header i,
+.title-section .title:before,
+.owl-theme .owl-controls .owl-nav div,
+.iconbox .box-header i,
+.flat-button,
+article .post-comment,
+.blog-carosuel .content-post:after,
+.blog-carosuel.owl-theme .owl-dots .owl-dot:hover span,
+.requestform input[type="submit"],
+#flat-testimonials-flexslider blockquote::after,
+.flat-row.mail-chimp,
+.go-top,
+.flat-button-slider:hover,
+.owl-theme .owl-dots .owl-dot.active span, 
+.owl-theme .owl-dots .owl-dot:hover span,
+.sidebar .widget:after,
+.flex-direction-nav a,
+.widget.widget_tag .tag-list a.active, 
+.widget.widget_tag .tag-list a:hover,
+.blog-pagination .flat-pagination li.active,
+.blog-pagination .flat-pagination li a:hover,
+.accent-button a,
+.comments-area ol.comment-list article .reply .comment-reply-link,
+.comment-respond .comment-submit,
+#mainnav ul.submenu:before,
+#mainnav ul.submenu > li > a:hover,
+.blog-single .direction ul li ul.social-icons li a:hover,
+.iconbox.style2 .box-content .box-title::before,
+.iconbox.square .box-header i,
+ul.flat-list li::after,
+.flat-tabs.v1 ul.menu-tab li.active,
+.flat-accordion .toggle-title::before,
+.flat-accordion .toggle-title.active,
+.flat-portfolio.style1 .view-detail,
+ul.portfolio-filter.style1 > li.active a,
+h3.title-project-detail::after,
+#mainnav .mega-menu::before,
+.flat-counter span,
+.flat-team ul.social li a,
+.flat-team.style3:hover .content,
+.flat-team.style4:hover .content,
+.flat-team.style5 .content::after,
+.testimonials.style3 .message,
+.flat-accordion.style2 .toggle-title span,
+.flat-accordion.style2 .toggle-title.active span,
+.flat-accordion.style5 .toggle-title.active,
+.flat-price-table.style1 .price-buynow,
+.flat-price-table.style1 .price-title,
+.flat-price-table.style2 .price,
+.flat-price-table.style2 .price-buynow,
+.flat-price .price.highlight,
+.flat-price .cta.highlight .button,
+.button-color.theme,
+#site-off-canvas .widget.widget_search::after,
+.iconbox.circle.lagre .box-header i,
+.iconbox.left-style2.rounded .icon-rounded,
+.iconbox.circle .box-header i,
+.iconbox.left-style2.rounded .box-redmore,
+.iconbox.circle.lagre.center-circle-style2 .box-header i,
+.iconbox.center-circle-style1 .box-redmore:hover {
+	background-color: #30a9de;
+}
